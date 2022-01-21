@@ -1,0 +1,1010 @@
+body{
+    font: 400 15px arial;
+}
+.hd-seactionall{
+    display: flex;
+    margin-left: 200px;
+}
+.logovnheader{
+
+}
+.detaillogohd{
+    display: block;
+    margin-top: 20px;
+}
+.overlay {
+    position: absolute; 
+    opacity: 1;
+    margin-left: -15px;
+    margin-top: -40px;
+}
+
+.timeheader {
+    font-size: 14px;
+    line-height: 32px;
+    color: #757575;
+    position: relative;
+    margin-left: 20px;
+    padding-left: 15px;
+    float: left;
+    margin-top: 15px;
+    border-left: 1px solid #e5e5e5;
+}
+.timenew{
+    height: 32px;
+    line-height: 30px;
+    padding: 0 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #757575;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 250px;
+}
+.international{
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 32px;
+    line-height: 30px;
+    padding: 0 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #757575;
+    display: inline-block;
+}
+.imgninter{
+    margin-top: -5px;
+}
+.box-searchheader{
+    border-left: 1px solid #e5e5e5;
+    margin-left: 25px;
+    margin-top: 16px;
+
+}
+.inputheadersearch{
+    width: 70%;
+      height: 30px;
+   
+      border: none; /* <-- This thing here */
+      border:solid 1px #ccc;
+      border-radius: 10px;
+    margin-left: 15px;
+    padding-left: 10px;
+
+}
+.fa-search{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -23px;
+    font-weight: 100;
+}
+.loginheader{
+    margin-top: 15px;
+    margin-left: -20px;
+    height: 32px;
+    line-height: 32px;
+    color: #4f4f4f;
+}
+.fa-user{
+    margin-right: 5px;
+}
+
+
+/* navbar */
+.navbarcontain{
+    margin-top: 15px;
+    border: 1px solid #e5e5e5;
+}
+
+.navbar-expand-lg{
+    margin-left: 100px;
+ 
+}
+.fa-home{
+    margin-right: 10px;
+}
+
+.navbar-nav{
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.disabled{
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+/* section 1 */
+.framsection1{
+    display: block;
+}
+
+
+.framsection1{
+    margin-left: 200px;
+    margin-top:20px;
+    width: 780px;
+}
+.framsec1-1{
+    display: flex;
+    background-color: #F7F7F7;
+}
+.imgsec1{
+    width: 520px;
+    height: 310px;
+    max-width: 100%;
+}
+.dtsec1-1{
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.dtsec1title{
+    font-family: "Merriweather",serif;
+    font-size: 24px;
+    line-height: 160%;
+    margin-bottom: 5px;
+    color: #222222;
+    font-weight: 600;
+}
+.detailsec1{
+    font-family: 14px;
+    text-align: left;
+    padding-right: 15px;
+    font-size: 14px;
+}
+.framsec1-2{
+    display: flex;
+    margin-top: 20px;
+}
+.framsec1-2-1{
+    width: 260px;
+    height: 180px;
+    text-align: left;
+}
+.titlefram21{
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+.framsec1-2-2{
+    width: 260px;
+    height: 180px;
+    text-align: left;
+    padding-right: 10px;
+}
+.titlefram22{
+    font-size: 16px;
+    line-height: 16px;
+    color: #9f224e;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+.framsec1-2-3{
+    width: 260px;
+    height: 180px;
+    text-align: left;
+    padding-right: 10px;
+    border-left: 3px solid #e5e5e5;
+    padding-left: 15px;
+}
+/*  SECTION 2*/
+/*  SECTION 2 1*/
+.framsection2{
+    display: flex;
+    width: 1130px;
+    height: 3050px;
+    margin-left: 200px;
+    margin-top:25px;
+    border-top: 2px solid #e5e5e5;
+
+}
+
+.framsection21{
+    width: 399px;
+    margin-top: 20px;
+}
+.dtsection21{
+    display: block;
+    width: 379px;
+    height: 156px;
+   
+}
+.titledtsec21{
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 800;
+    padding-right: 30px;
+    text-decoration: none;
+    color: #212529;
+    cursor: pointer;
+}
+.titledtsec21:hover{
+    color: #212529;
+}
+.framcontentsecdt{
+   display: flex;
+    width: 379px;
+    height: 120px; 
+    border-bottom: 2px solid #e5e5e5;
+    margin-top: 10px;
+}
+.dtcontentsec21{
+    display:block;
+    font-size: 14px;
+    width: 230px;
+    padding-left: 15px;
+    text-align: left;
+    line-height: 20px;
+    margin-top: -3px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #212529;
+}
+.dtcontentsec21:hover{
+    color: #212529;
+}
+.dtsection21-2{
+    display: block;
+    width: 379px;
+    height: 156px;
+    margin-top: 40px;
+    margin-right: 40px;
+}
+/*  SECTION 2 2*/
+
+.framsection22{
+    height: 2900px;
+    border-left: 2px solid #e5e5e5;
+    margin-top: 20px;
+}
+
+/*
+    code by Iatek LLC 2018 - CC 2.0 License - Attribution required
+    code customized by Azmind.com
+*/
+/*
+    code by Iatek LLC 2018 - CC 2.0 License - Attribution required
+    code customized by Azmind.com
+*/
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Show 4th slide on md if col-md-4*/
+    .carousel-inner .active.col-md-4.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -33.3333%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+    /* Show 3rd slide on sm if col-sm-6*/
+    .carousel-inner .active.col-sm-6.carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -50%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+}
+@media (min-width: 576px) {
+    .carousel-item {
+        margin-right: 0;
+    }
+    /* show 2 items */
+    .carousel-inner .active + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+    .carousel-item-next.carousel-item-left + .carousel-item,
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* farthest right hidden item must be also positioned for animations */
+    .carousel-inner .carousel-item-prev.carousel-item-right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+    .carousel-item-prev.carousel-item-right + .carousel-item,
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* MD */
+@media (min-width: 768px) {
+    /* show 3rd of 3 item slide */
+    .carousel-inner .active + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    .carousel-inner .carousel-item-next {
+        position: relative;
+        transform: translate3d(0, 0, 0);
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+/* LG */
+@media (min-width: 991px) {
+    /* show 4th item */
+    .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
+        display: block;
+    }
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {
+        transition: none;
+    }
+    /* Show 5th slide on lg if col-lg-3 */
+    .carousel-inner .active.col-lg-3.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: absolute;
+        top: 0;
+        right: -25%;  /*change this with javascript in the future*/
+        z-index: -1;
+        display: block;
+        visibility: visible;
+    }
+    /* left or forward direction */
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(-100%, 0, 0);
+        visibility: visible;
+    }
+    /* right or prev direction //t - previous slide direction last item animation fix */
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+        position: relative;
+        transform: translate3d(100%, 0, 0);
+        visibility: visible;
+        display: block;
+        visibility: visible;
+    }
+}
+.carousel-control-next{
+
+}
+
+.framdtcontent-active{
+    font: bold 18px "Merriweather",serif;
+    display: block;
+    width: 125px;
+    height: 34px;
+    line-height: 32px;
+    padding: 0 0px;
+}
+
+.framdtcontent{
+    display: block;
+    width: 120px;
+    height: 34px;
+    margin-left: -25px;
+    border: 1px solid rgba(7,109,182,0.5);
+    line-height: 32px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #222222;
+}
+
+.titlecovid{
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.titlepgbar{
+    color: #00945E;
+    font-size: 14px;
+    font-weight: 700;
+    padding-right: 12px;
+    flex-shrink: 0;
+    margin-top: 24px;
+    margin-left: 60px;
+}
+
+.pgbarframe{
+    flex-shrink: 1;
+    flex-grow: 1;
+    border: 1px solid #E5E5E5;
+    width: 284px;
+    height: 20px;
+    background: #fff;
+    position: relative;
+    margin-top: 24px;
+}
+.pgbardt{
+    width: 213px;
+    height: 18px;
+    line-height: 18px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    background: #00945E;
+}
+.congbofram{
+    font: 400 12px/100% arial !important;
+    color: #757575 !important;
+    margin-top: 15px;
+    margin-left: 80px;
+}
+.framnhiem{
+    display: flex;
+    margin-top: 10px;
+}
+.titlenhiem{
+    font-weight: 600;
+}
+.framtablecovid{
+    display: block;
+    border-left: 1px solid red;
+    padding-left: 20px;
+}
+.tablecovid{
+    width: 360px;
+    height: 80px;
+    overflow-y: scroll;
+    margin-top: 2px;
+  }
+.sonhiemhomqua{
+    padding-top: 2px;
+    padding-left: 65px;
+    text-align: right;
+}
+.socatuvong{
+    padding-left: 110px;
+    text-align: right;
+}
+
+.updatetablecovid{
+    color:#757575;
+    padding-left: 20px;
+}
+.ttcovid{
+    margin-left: 320px;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #076DB6 !important;
+    text-decoration: underline !important;
+}
+.ttcovid2{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #076DB6 !important;
+    text-decoration: underline !important;
+    padding-left: 15px;
+}
+.kinhdoanhframe{
+    display: flex;
+    font-family: "Merriweather",serif;
+    color: #222;
+    border-top: 3px solid #E5E5E5;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.titlekinhdoanh{
+    display: block;
+    color:black;
+    font-size: 20px;
+    font-weight: bold; 
+    border-bottom: 3px solid#9f224e;;
+    width: 106px;
+
+}
+.dtkd{
+    padding-top: 5px;
+    margin-left: 20px;
+    font-size: 13px;
+    color: #4f4f4f;
+    line-height: 1.1538461538;
+    font-family: arial;
+    font-weight: 400;
+}
+
+.kinhdoanhframe2{
+    display: flex;
+    margin-top: 18px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+.kinhdoanhframe21{
+    display: block;
+    margin-left: 10px;
+    
+}
+.imgkd{
+    width: 225px;
+    height: 135px;
+    
+}
+.titlekd{
+    font: bold 18px "Merriweather",serif;
+    display: block;
+    text-align: left;
+    width: 190px;
+
+}
+.contentkd21{
+    margin-top: 10px;
+    display: block;
+    text-align: left;
+    width: 190px;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.kinhdoanhframe22{
+    display: block;
+    margin-left: 30px;
+    border-left: 3px solid #E5E5E5;
+    padding-left: 30px;
+}
+
+.cdgframe{
+    display: flex;
+    border-top: 3px solid #E5E5E5;
+}
+
+.contentcdg{
+    display: block;
+    width: 200px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.framgold{
+    display: flex;
+    margin-left: 20px;
+    border-top: 3px solid #E5E5E5;
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tablegoldpri{
+    border: 1px solid #E5E5E5;
+    text-align: left;
+    padding-right: 20px;
+    font-size: 12px;
+    padding-left: 10px;
+}
+.frametablegoldpri{
+    margin-left: 20px;
+}
+
+.framesktv{
+    display: flex;
+    border: solid 1px #E5E5E5;
+    margin-left: 20px;
+}
+.framdthm{
+    display: block;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 380px;
+}
+.titledthm{
+    font-size: 14px;
+    font-weight: bold;
+    background: #196AB4;
+    padding: 4px 5px;
+    text-decoration: none;
+}
+.contentthm{
+    display: block;
+    margin-top: 10px;
+}
+
+.buttongch{
+    font-size: 14px;
+    display: block;
+    margin-top: 10px;
+    padding: 8px;
+    height: 32px;
+    font-weight: bold;
+    background: #196AB4;
+    width: 120px;
+    text-decoration: none;
+}
+
+.imgbsdt{
+    width: 50px;
+    height: 50px;
+}
+
+/* SECTION 3 */
+.cdframe{
+    display: flex;
+    border: solid 1px #E5E5E5;
+    margin-top: -20px;
+    width: 1130px;
+    margin-left: 200px;
+    height: 50px;
+    padding-top:10px ;
+    padding-left: 10px;
+}
+
+.cdcontent1{
+    font-family: "Merriweather",serif;
+    font-size: 15px;
+    line-height: 18px;
+    color: #757575;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.cdcontent2{
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    line-height: 18px;
+    color: #9f224e;
+    padding-top: 5px;
+    margin-left: 15px;
+}
+
+/* SECTION 4 VIDEO */
+
+.framevideosc4{
+    width: 1130px;
+    height: 541px;
+    margin-left: 200px;
+    background: #fcfaf6;
+    border: 1px solid #f0eeea;
+    margin-top: 50px;
+}
+
+.contentframvd{
+    display: flex;
+}
+.ctvd{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #9f224e;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.ctvd2{
+    display: block;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+
+.titleforvd{
+    font-family: "Merriweather",serif;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+.tdyoutube{
+    font-family: "Merriweather",serif;
+    margin-left: 280px;
+    padding-top: 15px;
+    font-size: 17px;
+
+}
+.scrollmenuyoutube{
+    overflow-y: scroll;
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 480px;
+    padding-right: 20px;
+}
+.titlevddtyb{
+    font-family: "Merriweather",serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+.dtcategoryvd{
+    display: block;
+    color: #757575;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 400!important;
+    padding-top: 10px;
+}
+
+
+/* SECTION 5 */
+.framenpc{
+    margin-left: 200px;
+    width: 1130px;
+    height: 200px;
+    border-top: 2px solid #f0eeea;
+    margin-top: 40px;
+}
+
+.npc{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #9f224e;
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 138px;
+}
+
+.pcdtframe{
+    display: block;
+    width: 221px;
+    height: 80px;
+    padding-left: 15px;
+}
+
+.titlepcdt{
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.contentpcdt{
+    display: block;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+}
+
+
+/* SECTION 6 */
+.framets{
+    display: flex;
+    border-top: 2px solid #f0eeea;
+    margin-left: 200px;
+    height: 540px;
+    width: 1130px;
+    margin-top: 30px;
+    border-bottom: 2px solid #f0eeea;
+}
+.framets1{
+    display: block;
+    margin-top: 20px;
+    height: 500px;
+    padding-right: 10px;
+}
+.framedttitlets1{
+    display: flex;
+}
+
+.titletsmain{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px solid #9f224e;
+    margin-left: 15px;
+    width: 80px;
+}
+
+.titledttsmain{
+    font-size: 14px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.titleimgts{
+    display: block;
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    width: 350px;
+}
+.contentimgts{
+    display: block;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    width: 340px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+ 
+}
+
+/* SECTION 7 */
+.framedl{
+    margin-left: 200px;
+    width: 1130px;
+    height: 550px;
+    border-top: 2px solid #f0eeea;
+    margin-top: 40px;
+    padding-top: 20px;
+    display: flex;
+    border-bottom: 2px solid #f0eeea;
+}
+
+.framedl1{
+    display: block;
+}
+.frameimgdl{
+    width: 520px;
+}
+
+.titleimgdl1{
+    display: block;
+    font-family: "Merriweather",serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    width: 500px;
+    margin-top: 15px;
+}
+.contentimgdl{
+    display: block;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+    width: 500px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.framedl2{
+    display: block;
+    margin-top: 45px;
+    margin-left: 20px;
+    border-right: 1px solid #f0eeea;
+    width: 265px;
+    height: 460px;
+}
+.titleimgdl2{
+    display: block;
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    width: 240px;
+    margin-top: 10px;
+}
+.framedl3{
+    display: block;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.titleimgdl3{
+    display: block;
+    font-family: "Merriweather",serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+}
+
+/* SECTION 8 XE */
+
+.framexe{
+    margin-left: 200px;
+    width: 1130px;
+    height: 550px;
+    padding-top: 20px;
+    display: flex;
+    border-bottom: 2px solid #f0eeea;
+}
+/* SECTION 9 SO HOA */
+.framesohoa{
+    margin-left: 200px;
+    width: 1130px;
+    height: 550px;
+    padding-top: 20px;
+    display: flex;
+    border-bottom: 2px solid #f0eeea;
+}
+
+/*  FOOTER  */
+.framefooter{
+    display:block;
+    width: 1130px;
+    height: 500px;
+    margin-left: 200px;
+    border-top: 5px solid #f0eeea;
+}
+
+.footerframe1{
+    display: flex;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #f0eeea;
+
+}
+
+.frametitlefootermain{
+    display: block;
+    width: 170px;
+    padding-right: 30px;
+    font-size: 14px;
+    position: relative;
+    font-weight: bold;
+}
+.frametitlefootermain2{
+    display: block;
+    width: 170px;
+    padding-right: 30px;
+    position: relative;
+}
+.frametungdung{
+    display: block;
+    margin-top: 15px;
+    height: 160px;
+}
+.iconfootervnexpress{
+    display: flex;
+    width: 120px;
+    height: 32px;
+    float: left;
+    border-radius: 3px;
+    height: 32px;
+    line-height: 30px;
+    background: #f7f7f7;
+    border: 1px solid #e5e5e5;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.footerframe2{
+    padding-top: 10px;
+    display: block;
+}
+.rsstext{
+    display: block;
+    border-right: 1px solid #e5e5e5;
+    width: 50px;
+    height: 20px;
+    color: #757575;
+    font-size: 14px;
+    line-height: 120%;
+}
+.rsstext2{
+    display: block;
+    color: #757575;
+    font-size: 14px;
+    line-height: 120%;
+    margin-left: 10px;
+}
+
+
+
